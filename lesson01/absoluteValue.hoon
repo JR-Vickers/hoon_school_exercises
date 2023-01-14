@@ -12,8 +12,13 @@
 
 ::  Modified version
 
-::  Set x equal to 10
+::  Set x equal to...
+=/  x  8
+=/  x  9
 =/  x  10
+=/  x  11
+=/  x  12
+
 ::  If x is greater than 10...
 ?:  %-  gth  [x 10]
 ::  Subtract 10 from x
