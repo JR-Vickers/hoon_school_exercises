@@ -2,5 +2,8 @@
 ::  returns a (list @ud) containing the ASCII value of each character.
 ::  Use a |- barhep trap.
 
-=letter |=  v=@ud
+=ascii |=  t=`tape`
 |-
+`(list @)``tape`t
+
+::  typing (ascii "hello") will return ~[104 101 108 108 111]
