@@ -1,0 +1,9 @@
+grape:       9 -<+
+banana:     11 ->+
+watermelon: 12 +<-
+apple:      16 -<-<
+lemon:      27 +<+>
+orange:     62 +>+>-
+peach:      42 ->->-
+pineapple:  87 ->->+>
+cherries:   126 +>+>-
